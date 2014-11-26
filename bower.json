@@ -1,18 +1,19 @@
 {
-  "name": "social-feed",
+  "name": "social-feed-expanded",
   "version": "0.1.2",
-  "homepage": "http://pavelk2.github.io/social-feed/",
+  "homepage": "https://github.com/johndbarnard/social-feed",
   "authors": [
     {
-      "name": "Pavel Kucherbaev",
-      "email": "pavel@kucherbaev.com",
-      "homepage": "http://kucherbaev.com"
+      "name": "John Barnard",
+      "email": "johndbarnard@gmail.com",
+      "homepage": "http://mavora.info"
     }
   ],
   "keywords":[
     "Twitter",
     "Facebook",
     "Instagram",
+    "Flickr",
     "Google+",
     "Vkontakte",
     "social",
@@ -22,7 +23,7 @@
   "main": "js/jquery.socialfeed.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/pavelk2/social-feed.git"
+    "url": "https://github.com/johndbarnard/social-feed.git"
   },
   "ignore": [
     "**/.*",
