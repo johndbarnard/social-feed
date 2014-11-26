@@ -1,5 +1,7 @@
 # Social-feed
 
+Please visit http://pavelk2.github.io/social-feed/ for the original code. This fork simply adds in Flickr support.
+
 The jQuery plugin which shows user feeds from the most popular social networks.
 
 ![](http://habrastorage.org/files/286/85e/03e/28685e03ef2b4bdc8f7da551b339426e.png)
@@ -19,7 +21,7 @@ Social networks supported:
 ## Installation
 via http://bower.io:
 ```
-bower install social-feed
+bower install social-feed-expanded (bower install social-feed for the original, without flickr support)
 ```
 or download the latest release:
 
